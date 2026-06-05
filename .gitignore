@@ -1,0 +1,24 @@
+# Build
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.csproj.user
+
+# Azure publish/local
+Properties/PublishProfiles/
+*.pubxml
+*.pubxml.user
+
+# Secrets reales
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
